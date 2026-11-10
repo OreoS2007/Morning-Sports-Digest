@@ -2,7 +2,7 @@
 
 A one-page daily digest of score cards for rugby, American football and baseball. It updates every morning at 07:17 JST.
 
-**Live page:** https://oreos2007.github.io/morning-sports-digest/
+**Live page:** https://oreos2007.github.io/Morning-Sports-Digest/
 
 ## What's on it
 
